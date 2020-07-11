@@ -10,7 +10,3 @@ I'm Matt, and I'm a software engineer and robotics researcher.
 - 🌱 I’m currently learning reinforcement learning and its applications in robotics.
 -  ⚡ Languages: Python, C++, Typescript, C#
 
-
----
-⭐️ From [peasant98](https://github.com/peasant98)
-
