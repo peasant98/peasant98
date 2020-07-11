@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-matthewhstrong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewhstrong/)](https://www.linkedin.com/in/matthewhstrong/)
 [![Gmail Badge](https://img.shields.io/badge/-matthew.h.strong@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matthew.h.strong@gmail.com)](mailto:matthew.h.strong@gmail.com)
 
-## Hi 👋, 
+## Hi!
 
 I'm Matt, and I'm a software engineer and robotics researcher.
 
