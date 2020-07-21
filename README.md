@@ -8,5 +8,5 @@ I'm Matt, and I'm a software engineer and robotics researcher.
 
 - :robot: I’m currently working in the [HIRO](https://github.com/HIRO-group) group as a undergraduate researcher, and as a software engineer intern at Microsoft.
 - 🌱 I’m currently learning reinforcement learning and its applications in robotics.
--  ⚡ Languages: Python, C++, Typescript, C#
+-  ⚡ Languages: Python, C++, Typescript, C#, Chinese (in progress)
 
