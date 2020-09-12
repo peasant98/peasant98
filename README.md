@@ -10,4 +10,5 @@ I'm Matt, and I'm a software engineer and robotics researcher.
 - 🌱 I’m currently learning reinforcement learning and its applications in robotics - more specifically, robotic manipulators and quadrotors.
 - :runner: I love to run, bike, and swim.
 -  ⚡ Languages: Python, C++, Typescript, C#, Chinese (in progress)
+- Random aside - check out this [repo](https://github.com/uzh-rpg/flightmare) from UZH-RPG. It's REALLY good.
 
