@@ -4,7 +4,7 @@
 
 ## Yo!
 
-I'm Matt, and I'm a software engineer and robotics researcher.
+I'm Matt (司馬修), and I'm a software engineer and robotics researcher.
 
 - :robot: I’m currently working in the [HIRO](https://hiro-group.ronc.one) group as an undergraduate researcher. I previously was a software engineer intern at Microsoft. I'm also an undergraduate researcher in the [SBS](https://www.colorado.edu/lab/sbs) lab.
 - 🌱 I’m currently performing research on a robotic skin through environment informed control, as well as RL+robotics.
