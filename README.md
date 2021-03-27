@@ -6,7 +6,7 @@
 
 I'm Matt (司馬修), and I'm a software engineer and robotics researcher.
 
-- :robot: I’m currently working in the [HIRO](https://hiro-group.ronc.one) group as an undergraduate researcher. I previously was a software engineer intern at Microsoft. I'm also an undergraduate researcher in the [SBS](https://www.colorado.edu/lab/sbs) lab.
+- :robot: I’m currently working in the [HIRO](https://hiro-group.ronc.one) group as an undergraduate researcher. I previously was a software engineer intern at Microsoft. I'm also a researcher in the [SBS](https://www.colorado.edu/lab/sbs) lab.
 - 🌱 I’m currently performing research on a robotic skin through environment informed control, as well as RL+robotics.
 - :runner: I enjoy biking, running, swimming, and climbing up 14ers :mountain:.
 -  ⚡ Languages: Python, C++, Typescript, C#, 中文 (in progress)
