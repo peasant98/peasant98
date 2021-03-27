@@ -10,5 +10,3 @@ I'm Matt (司馬修), and I'm a software engineer and robotics researcher.
 - 🌱 I’m currently performing research on a robotic skin through environment informed control, as well as RL+robotics.
 - :runner: I enjoy biking, running, swimming, and climbing up 14ers :mountain:.
 -  ⚡ Languages: Python, C++, Typescript, C#, 中文 (in progress)
-- :bulb: Random aside - check out this cool [repo](https://github.com/uzh-rpg/flightmare) from UZH-RPG.
-
