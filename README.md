@@ -7,7 +7,7 @@
 
 I'm Matt (司马修), and I'm a software engineer at Microsoft and robotics researcher.
 
-- :robot: I’m previous worked in the [HIRO](https://hiro-group.ronc.one) group as an undergraduate researcher, advised by Professor Alessandro Roncone. I previously was a software engineer intern at Microsoft. I'm also a researcher in the [SBS](https://www.colorado.edu/lab/sbs) lab.
+- :robot: I previously worked in the [HIRO](https://hiro-group.ronc.one) group as an undergraduate researcher, advised by Professor Alessandro Roncone. I previously was a software engineer intern at Microsoft. I'm also a researcher in the [SBS](https://www.colorado.edu/lab/sbs) lab.
 - 🌱 I do research on enabling close proximity human robot interaction via robotic skin, GANs for energy modeling, and HRL+robotics.
 - :runner: I enjoy biking, running, swimming, and hiking :mountain:.
 -  ⚡ Languages: Python, C++, Typescript, C#, 中文 (in progress)
