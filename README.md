@@ -7,8 +7,8 @@
 
 I'm Matt (司马修), and I'm a robotics researcher at Stanford University.
 
-- :robot: During my undergrad at the University of Colorado Boulder, I worked in the [HIRO](https://hiro-group.ronc.one) group as an undergraduate researcher, advised by Professor [Alessandro Roncone](https://alessandro.ronc.one/). I was also a researcher in the [SBS](https://www.colorado.edu/lab/sbs) lab, advised by Professor [Wangda Zuo](https://www.colorado.edu/ceae/wangda-zuo). Along the way, I interned a couple of times at Microsoft.
-- 🌱 My research involves enabling perception and autonomy for physical human-robot interaction. On the side, I work on leveraging machine learning as applied to building energy modeling.
+- :robot: During my undergrad at the University of Colorado Boulder, I worked in the [HIRO](https://hiro-group.ronc.one) group as an undergraduate researcher, advised by Professor [Alessandro Roncone](https://alessandro.ronc.one/). I was also a researcher in the [SBS](https://www.colorado.edu/lab/sbs) lab, advised by Professor [Wangda Zuo](https://www.colorado.edu/ceae/wangda-zuo). Along the way, I interned a couple of times at Microsoft. After graduating, I worked at Microsoft for ~2 years on the Customer Experience Platform.
+- 🌱 My research involves enabling perception and autonomy for physical human-robot interaction. Previously, on the side, I worked on leveraging machine learning as applied to building energy modeling.
 - :runner: I enjoy running, trail running, biking, swimming, and hiking :mountain:. Check out my [Strava](https://www.strava.com/athletes/26495451)!
 -  ⚡ Languages: Python, C++, Typescript, C#, 中文 (in progress)
 
